@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleHeartbeatService", "SimpleHeartbeatService\SimpleHeartbeatService.csproj", "{239DE366-ACDF-45BF-9A42-7F90AB2C241D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{239DE366-ACDF-45BF-9A42-7F90AB2C241D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{239DE366-ACDF-45BF-9A42-7F90AB2C241D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{239DE366-ACDF-45BF-9A42-7F90AB2C241D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{239DE366-ACDF-45BF-9A42-7F90AB2C241D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2CC003D1-89E6-45C9-A128-152F1B42F2E0}
+	EndGlobalSection
+EndGlobal
